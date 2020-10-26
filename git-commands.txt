@@ -1,0 +1,23 @@
+git work by three stages
+1- working directory whuch we make the files and git commands
+2- staging area which it hte arrea after git add commands to save the
+changes before we decide to commit
+3- local directory or github (remoe directory) to save the changes after
+the git commit -m "messages"
+
+The git is used for the local repository
+The github us used for the remote repository
+
+git init
+git add the name of directory
+git add .
+git commit =m "the message"
+git status   the files which isa saved or not
+git log     the message of each files of git add
+git diff the name of the file if we want to see the mistake work
+before we write git add to the file and then
+git checkout the name of the wrong file to restore the last version
+of the saved on working directory
+git remote add origin the link of github repository
+git push -u origin master
+git rm --cached -r .  for remove all the saved files from stagging area
