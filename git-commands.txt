@@ -21,3 +21,4 @@ of the saved on working directory
 git remote add origin the link of github repository
 git push -u origin master
 git rm --cached -r .  for remove all the saved files from stagging area
+rm the file name    to remove the file
