@@ -22,3 +22,8 @@ git remote add origin the link of github repository
 git push -u origin master
 git rm --cached -r .  for remove all the saved files from stagging area
 rm the file name    to remove the file
+start the file name  to open the files
+git branch the name of new branch   to create a branch
+git branch         to view the branches
+git checkout the branch name     to choose the branch
+git merge the name of the branch  you should be on the master branch to merger the update data from your specific branch to ypur master branch
